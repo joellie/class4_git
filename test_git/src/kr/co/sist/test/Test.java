@@ -8,6 +8,7 @@ public class Test {
 		//jelly2°¡ ¼öÁ¤
 		int j=0;
 		System.out.println("j="+j);
+		
 	}//main
 
 }//class
